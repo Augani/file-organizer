@@ -1,16 +1,16 @@
 # Rust CLI File Organizer Tool
 
-<!-- plan: tokyo | created: 2026-01-02 17:10:07 | model: Auto -->
+<!-- plan: tokyo | created: 2026-01-02 17:17:27 | model: Auto -->
 
 ## Tasks
 
-- [x] 1. Set up Rust project structure with clap for CLI argument parsing
+- [x] 1. Initialize Rust project with Cargo and add dependencies (clap for CLI, walkdir for directory traversal)
 
-- [x] 2. Define file category mappings (images, documents, videos, etc.)
+- [x] 2. Implement CLI argument parsing with directory path and --dry-run flag
 
-- [x] 3. Implement directory scanning and file discovery logic
+- [x] 3. Create file categorization logic (images, documents, videos, audio, archives, etc.)
 
-- [x] 4. Create directory structure for each file category
+- [x] 4. Implement directory structure creation for each file category
 
 - [x] 5. Implement file moving logic with dry-run support
 
