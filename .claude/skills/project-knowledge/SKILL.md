@@ -10,7 +10,7 @@ This skill provides comprehensive knowledge about this project's structure, tech
 
 ## Languages
 
-- **Markdown**: 9 files (extensions: md)
+- **Markdown**: 8 files (extensions: md)
 - **JSON**: 1 files (extensions: json)
 
 ## Directory Structure
