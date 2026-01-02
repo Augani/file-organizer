@@ -1,6 +1,6 @@
 ---
 name: project-knowledge
-description: Provides project-specific knowledge including JSON, Markdown and . Use when understanding the project structure or conventions.
+description: Provides project-specific knowledge including Markdown, JSON and . Use when understanding the project structure or conventions.
 allowed-tools: Read, Glob, Grep
 ---
 
@@ -10,8 +10,8 @@ This skill provides comprehensive knowledge about this project's structure, tech
 
 ## Languages
 
-- **JSON**: 1 files (extensions: json)
 - **Markdown**: 9 files (extensions: md)
+- **JSON**: 1 files (extensions: json)
 
 ## Directory Structure
 
