@@ -1,24 +1,20 @@
-# Rust CLI File Organizer Tool
+# Add GitHub Actions for cross-platform releases
 
-<!-- plan: tokyo | created: 2026-01-02 17:17:27 | model: Auto -->
+<!-- plan: tokyo | created: 2026-01-02 18:45:38 | model: Auto -->
 
 ## Tasks
 
-- [x] 1. Initialize Rust project with Cargo and add dependencies (clap for CLI, walkdir for directory traversal)
+- [x] 1. Analyze current project structure and build configuration
 
-- [x] 2. Implement CLI argument parsing with directory path and --dry-run flag
+- [x] 2. Create GitHub Actions workflow for macOS builds
 
-- [x] 3. Create file categorization logic (images, documents, videos, audio, archives, etc.)
+- [x] 3. Add Windows build configuration to workflow
 
-- [x] 4. Implement directory structure creation for each file category
+- [x] 4. Add Linux build configuration to workflow
 
-- [x] 5. Implement file moving logic with dry-run support
+- [x] 5. Configure release artifact uploads for all platforms
 
-- [x] 6. Add progress display and summary reporting
-
-- [x] 7. Implement error handling for permissions and file-in-use scenarios
-
-- [x] 8. Add integration tests and verify tool functionality
+- [x] 6. Test workflow syntax and validate configuration
 
 ## Notes
 
